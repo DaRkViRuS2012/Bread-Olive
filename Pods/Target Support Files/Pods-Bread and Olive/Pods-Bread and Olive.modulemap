@@ -1,0 +1,6 @@
+framework module Pods_Bread_and_Olive {
+  umbrella header "Pods-Bread and Olive-umbrella.h"
+
+  export *
+  module * { export * }
+}

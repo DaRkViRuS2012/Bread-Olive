@@ -1,0 +1,91 @@
+PODS:
+  - Alamofire (2.0.2)
+  - BSErrorMessageView (1.1)
+  - BTNavigationDropdownMenu (0.4.1)
+  - Cosmos (1.2.3)
+  - DropDown (0.1.5)
+  - DZNEmptyDataSet (1.8.1)
+  - FFJLoadButton (0.2.0)
+  - GKAutoScrollingView (0.1.2)
+  - KCFloatingActionButton (1.4.3)
+  - Kingfisher (2.4.3)
+  - Material (1.42.9)
+  - MJAutoComplete (1.1.1)
+  - NextResponderTextField (1.1.0)
+  - PhotoSlider (0.13.3):
+    - Kingfisher
+  - Popover (0.9.1)
+  - RAMAnimatedTabBarController (1.5.3)
+  - SCLAlertView (0.6.0)
+  - SDCAlertView (3.1.1)
+  - SearchTextField (0.1.0)
+  - SteviaLayout (2.2.1)
+  - SwiftValidator (3.0.3)
+  - SwiftyJSON (2.3.2)
+  - XLPagerTabStrip (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - BSErrorMessageView (from `https://github.com/BenjaminSarkisyan/BSErrorMessageView.git`)
+  - BTNavigationDropdownMenu
+  - Cosmos (~> 1.2)
+  - DropDown (~> 0.1)
+  - DZNEmptyDataSet
+  - FFJLoadButton
+  - GKAutoScrollingView
+  - KCFloatingActionButton (~> 1.3)
+  - Kingfisher (~> 2.3)
+  - Material
+  - MJAutoComplete (~> 1.1)
+  - NextResponderTextField
+  - PhotoSlider
+  - Popover
+  - RAMAnimatedTabBarController
+  - SCLAlertView
+  - SDCAlertView (~> 3.0)
+  - SearchTextField
+  - SteviaLayout
+  - SwiftValidator (= 3.0.3)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - XLPagerTabStrip (~> 5.0)
+
+EXTERNAL SOURCES:
+  BSErrorMessageView:
+    :git: https://github.com/BenjaminSarkisyan/BSErrorMessageView.git
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  BSErrorMessageView:
+    :commit: a7662bf3664eb0f0933969f86e4175e6b6bdaf0b
+    :git: https://github.com/BenjaminSarkisyan/BSErrorMessageView.git
+  SwiftyJSON:
+    :commit: 73670b94292b8d8496c398a973f56ac67789ba9f
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  BSErrorMessageView: 67cc7d172995fbc6df602c2b8923f48121ddf7a9
+  BTNavigationDropdownMenu: 093f3cbfad1572f2c222bdf8d17584d1e13380d4
+  Cosmos: efddd01b729956ad6335bc58bc92e5735a1d12a3
+  DropDown: addffd49f2a014e079ed854adcb3c5473c1ebdf2
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FFJLoadButton: 56ad481d381204d964560c29354d1aae62c171ee
+  GKAutoScrollingView: 5b91406df0e5437bf1ee862cfe274435cd9350d6
+  KCFloatingActionButton: df4c93dd0a149b259ca7ff3014bd7d0d0ea7a5de
+  Kingfisher: 322a9c1c5b03212c1e741d6bece72d387b01a77a
+  Material: a84ed893b7785f0d3c8d568e88c055f82b436473
+  MJAutoComplete: dd8e997dcf32fd4ca58e6a9f8497f171099b3a20
+  NextResponderTextField: 26ca1e8f8ac601fa180a2647456f3862acdcc673
+  PhotoSlider: 95a880b53d11fdf68576c7449a733c3f7f503e01
+  Popover: e64ef6d6f6e98c1c5c5aceedf1d1b9e6fd7375d7
+  RAMAnimatedTabBarController: 04b624cf8958a0032bf7fa9c0f2c515f59d30b9c
+  SCLAlertView: 0f6b3c23a48b4993564ff1dd3c065782e4b2b687
+  SDCAlertView: c912a09c702b4450720c84a11f42edab0ba23933
+  SearchTextField: 3f5aecd8b33879dcaba496e5ffc7a00b9df2eb65
+  SteviaLayout: d5036cb1404aa6351633f06fa475660b3ea89fa5
+  SwiftValidator: 0b6a48bf10364411b0d64c97f78665ff87ca9f8b
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  XLPagerTabStrip: 87b8b705f9a7178e76a063ffaa2d70045944a965
+
+COCOAPODS: 0.39.0
